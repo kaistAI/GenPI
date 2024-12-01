@@ -1,0 +1,44 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "context_id": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "pseudo_input": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "teacher_output_conv": [
+      {
+        "content": {
+          "dtype": "string",
+          "_type": "Value"
+        },
+        "role": {
+          "dtype": "string",
+          "_type": "Value"
+        }
+      }
+    ],
+    "teacher_output_single": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "student_output_single": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "reason": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "context": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
