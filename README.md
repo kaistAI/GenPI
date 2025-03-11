@@ -26,10 +26,10 @@ bash finetune_meta-cog_joint_loss.sh
 
 ## Citation
 ```
-@misc{shin2024generativecontextdistillation,
-      title={Generative Context Distillation}, 
+@misc{shin2025generativepromptinternalization,
+      title={Generative Prompt Internalization}, 
       author={Haebin Shin and Lei Ji and Yeyun Gong and Sungdong Kim and Eunbi Choi and Minjoon Seo},
-      year={2024},
+      year={2025},
       eprint={2411.15927},
       archivePrefix={arXiv},
       primaryClass={cs.CL},
